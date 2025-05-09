@@ -32,19 +32,6 @@ You will learn how to **design**, **build**, **optimize**, **secure**, and **aut
 | Status Management    | Standardize delivery statuses                        |
 | Notifications        | Send scheduled marketing reminders                  |
 
-## 📋 Course Structure (YouTube Playlist)
-
-| Part | Topic                                   | What We Did                          |
-|:----:|-----------------------------------------|--------------------------------------|
-| 1️⃣  | Introduction + Database Design          | ER Diagram, Database Design principles |
-| 2️⃣  | Table Creation                          | Created all normalized tables with PKs/FKs |
-| 3️⃣  | Sample Data Insertion                   | Added 10+ users, vendors, 50+ products, 100+ orders |
-| 4️⃣  | Writing Key SQL Queries                 | Revenue reports, top-selling products, customer orders |
-| 5️⃣  | Views, Indexes, Triggers, Procedures     | Modularized and optimized database |
-| 6️⃣  | Performance Optimization                | Indexed critical fields, tuned queries |
-| 7️⃣  | Role-Based Access and Security          | Created Admin, Vendor, Delivery roles |
-| 8️⃣  | Scheduled Jobs with SQL Server Agent    | Automated notifications and reports |
-
 
 ## 🚀 Features
 
